@@ -1,0 +1,2 @@
+# MetodeTsukamoto
+Contoh Metode Tsukamoto
